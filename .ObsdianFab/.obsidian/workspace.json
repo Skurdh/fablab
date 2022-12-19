@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "03d13c61ff83ca24",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15816f301758d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b914590dd480ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FreeCAD/Cours Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a52a58bff651cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "030cdcc15eeb8567",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd5d6935caae8b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6254fc848cc4fed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce8f4496c5091c5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fefb3c49aa06692f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d10a58c60435e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6abef9e350f2b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "772e38f44429234d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "188e587c66495c86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2140f3533e58fe9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d09a41fb7cc7db1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "53a52a58bff651cc",
+  "lastOpenFiles": [
+    "Slide demo.md",
+    "FreeCAD/Cours Notes.md",
+    "2022-12-18.md",
+    "FreeCAD.md"
+  ]
+}
